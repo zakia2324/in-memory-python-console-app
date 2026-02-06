@@ -1,1 +1,49 @@
 phase2/frontend/node_modules/ 
+# Node / Frontend
+node_modules/
+.next/
+dist/
+*.log
+
+# Python / Backend
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Node / Frontend
+node_modules/
+.next/
+dist/
+*.log
+
+# Node / Frontend
+node_modules/
+.next/
+dist/
+*.log
+
+# Python / Backend
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+phase3/.next/
+phase3/venv/
+phase3/__pycache__/
